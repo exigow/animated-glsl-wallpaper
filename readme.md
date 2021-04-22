@@ -19,3 +19,5 @@ Where:
 * `-f` is fragment shader file
 * `-t` is texture file
 * `-s` is time speed multiplier (optional)
+
+![Screenshot](https://user-images.githubusercontent.com/5013708/115758743-c4188180-a39f-11eb-92f7-133fec4d2eb4.png)
