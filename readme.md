@@ -2,6 +2,12 @@
 
 This repository contains minimal glue required to render animated wallpaper on Linux (X11). SDL2 is used for OpenGL context creation and image loading. Shader uniforms have the same names and properties as in ShaderToy.
 
+## Required dependencies
+
+```shell
+pacman -Syu gcc sdl2 sdl2_image
+```
+
 ## Compilation
 
 ```shell
