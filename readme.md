@@ -11,7 +11,7 @@ pacman -Syu gcc sdl2 sdl2_image
 ## Compilation
 
 ```shell
-gcc -lX11 -lGL -lGLEW -lSDL2 -lSDL2_image -o main main.c
+gcc -o main main.c -lX11 -lGL -lGLEW -lSDL2 -lSDL2_image
 ```
 
 ## Usage
